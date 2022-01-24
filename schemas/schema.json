@@ -1,0 +1,17 @@
+{
+	"properties": {
+		"name": {
+			"type": "string",
+			"minLength": 1
+		},
+		"age": {
+			"type": "integer"
+		},
+		"phone": {
+			"type": "integer"
+		}
+	},
+	"required": [
+		"name", "number"
+	]
+}
